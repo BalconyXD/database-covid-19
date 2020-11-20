@@ -1,0 +1,22 @@
+{
+    "name": "Database Covid 19",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "data-streamer": "github:microsoft/pxt-hacking-stem#v0.1.0",
+        "radio": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
